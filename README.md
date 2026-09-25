@@ -1,2 +1,2 @@
 # gamebox-uni-equipo12
-Mejora byte
+Defina las vidas del Byte
